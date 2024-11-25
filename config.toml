@@ -1,5 +1,5 @@
 esp_toml_version = 1.0
-firmware_images_url = "https://kindzhon.github.io/esp_ths/bin/"
+firmware_images_url = "https://kindzhon.github.io/"
 
 supported_apps = ["ESP_THS"]
 
