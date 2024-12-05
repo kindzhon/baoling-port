@@ -4,5 +4,5 @@ firmware_images_url = "https://kindzhon.github.io/"
 supported_apps = ["ESP_THS"]
 
 [ESP_THS]
-chipsets = ["ESP32C6"]
+chipsets = ["ESP32"]
 image.esp32c6 = "esp_ths_v1_20240418.bin"
